@@ -1,0 +1,27 @@
+1. PrimitiveDataTypes - 
+
+char var = 10;  // this is a valid statement
+char uses 16 bits (2 Bytes) and its range is 0 to 65535 (no signed bit reserved) 
+so it can easily store value 10.
+
+// size (Number) : byte < short < int < long < float < double
+// size char and mum(starting int) : char < int < long < float < double
+	      
+// +++++++Rules for above two+++++
+// small data type  assigned to higher data type is OK
+// higher data type assigned to lower data type is not OK , 
+//                    has to be type-casted to lower data type.
+// char , short and byte has to type casted to each other if need to be assigned
+
+
+
+Wrapper Class - half knowledge
+java and javac - make notes
+Java file structure - make notes
+import statement - make notes
+access modifiers - make notes
+Garbage Collection - more study
+
+
+
+
